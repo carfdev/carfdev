@@ -62,3 +62,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github-readme-streak-stats.herokuapp.com?user=carfdev&theme=dark&border_radius=13.8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?carfdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
