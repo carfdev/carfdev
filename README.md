@@ -59,4 +59,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carfdev&theme=dark)](https://git.io/streak-stats)
-[![Carfdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=carfdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Carfdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=carfdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
